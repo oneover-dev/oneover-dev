@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=250&color=58A6FF&center=true&vCenter=true&width=700&lines=console.log(%22Hello%2C+World!%22);print(%22Hello%2C+World!%22);printf(%22Hello%2C+World!%5Cn%22);puts+%22Hello%2C+World!%22;echo+%22Hello%2C+World!%22;println(%22Hello%2C+World!%22)" alt="Typing SVG" />
-</p>
+</p> 
 
 
 
